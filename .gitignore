@@ -6,3 +6,6 @@
 # Assets
 !/Assets/
 !/Assets/**/
+
+!/Build/
+!/Build/**/
